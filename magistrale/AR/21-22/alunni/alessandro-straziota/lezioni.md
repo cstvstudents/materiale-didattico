@@ -1,0 +1,7 @@
+# Link ad appunti lezioni a.a. 2021-2022
+- [Lesson 1 - Modello Erdős–Rényi](http://95.179.136.254:2122/AR/01.html)
+- [Lesson 2-3 - Fenomeno rich-get-richer](http://95.179.136.254:2122/AR/02.html)
+- [Lesson 4-5 - Grafi Geometrici Aleatori e Reti Wireless](http://95.179.136.254:2122/AR/04.html)
+- [Lesson 6 - Modello Small World](http://95.179.136.254:2122/AR/06.html)
+- [Lesson 7 - Communities - Part 1](http://95.179.136.254:2122/AR/07.html)
+- [Lesson 8 - Communities - Part 2](http://95.179.136.254:2122/AR/08.html)
