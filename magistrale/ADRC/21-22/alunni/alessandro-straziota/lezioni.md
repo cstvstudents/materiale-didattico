@@ -9,3 +9,4 @@
 - [Lesson 9 - Leader Election on Ring - Part 2](http://95.179.136.254:2122/ADRC/09.html)
 - [Lesson 10 - Broadcast on Radio Network](http://95.179.136.254:2122/ADRC/10.html)
 - [Lesson 11 - Randomized Distributed Protocols](http://95.179.136.254:2122/ADRC/11.html)
+- [Lesson 12 - BGI Protocol on d-regular layered graph](http://95.179.136.254:2122/ADRC/12.html)
