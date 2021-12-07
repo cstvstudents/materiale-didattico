@@ -10,3 +10,6 @@
 - [Lesson 10 - Broadcast on Radio Network](http://95.179.136.254:2122/ADRC/10.html)
 - [Lesson 11 - Randomized Distributed Protocols](http://95.179.136.254:2122/ADRC/11.html)
 - [Lesson 12 - BGI Protocol on d-regular layered graph](http://95.179.136.254:2122/ADRC/12.html)
+- [Lesson 13 - Gossip Model, PULL Protocol for Broadcast on Clique](http://95.179.136.254:2122/ADRC/13.html)
+- [Lesson 14 - α-expanders](http://95.179.136.254:2122/ADRC/14.html)
+- [Lesson 15 - Majority Consensus and Swarm Intelligence](http://95.179.136.254:2122/ADRC/15.html)
