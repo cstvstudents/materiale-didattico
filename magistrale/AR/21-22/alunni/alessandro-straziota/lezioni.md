@@ -6,3 +6,5 @@
 - [Lesson 7 - Communities - Part 1](http://95.179.136.254:2122/AR/07.html)
 - [Lesson 8 - Communities - Part 2](http://95.179.136.254:2122/AR/08.html)
 - [Lesson 9 - Cascading Behavior in Networks - Part 1](http://95.179.136.254:2122/AR/09.html)
+- [Lesson 10 - Cascading Behavior in Networks - Part 2](http://95.179.136.254:2122/AR/10.html)
+- [Lesson 11 - Cascading Behavior in Networks - Part 3](http://95.179.136.254:2122/AR/11.html)
