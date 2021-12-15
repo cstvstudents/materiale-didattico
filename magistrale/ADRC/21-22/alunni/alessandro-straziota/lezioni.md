@@ -1,4 +1,5 @@
 # Link appunti lezioni a.a. 2021-2022
+## Sistemi Distribuiti
 - [Lesson 2 - Ambienti distribuiti](http://95.179.136.254:2122/ADRC/02.html)
 - [Lesson 3 - Single source broadcast problem - Part 1](http://95.179.136.254:2122/ADRC/03.html)
 - [Lesson 4 - Single source broadcast problem - Part 2](http://95.179.136.254:2122/ADRC/04.html)
@@ -13,3 +14,6 @@
 - [Lesson 13 - Gossip Model, PULL Protocol for Broadcast on Clique](http://95.179.136.254:2122/ADRC/13.html)
 - [Lesson 14 - α-expanders](http://95.179.136.254:2122/ADRC/14.html)
 - [Lesson 15 - Majority Consensus and Swarm Intelligence](http://95.179.136.254:2122/ADRC/15.html)
+- [Lesson 16 - Swarm Intelligence: 3-MAJ protocol](http://95.179.136.254:2122/ADRC/16.html)
+## Algorithmic Game Theory
+- [Lesson 19 - Nash Equilibrium](http://95.179.136.254:2122/ADRC/19.html)
