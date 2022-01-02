@@ -8,3 +8,4 @@
 - [Lesson 9 - Cascading Behavior in Networks - Part 1](http://95.179.136.254:2122/AR/09.html)
 - [Lesson 10 - Cascading Behavior in Networks - Part 2](http://95.179.136.254:2122/AR/10.html)
 - [Lesson 11 - Cascading Behavior in Networks - Part 3](http://95.179.136.254:2122/AR/11.html)
+- [Lesson 12 - Herding](http://95.179.136.254:2122/AR/12.html)
