@@ -15,5 +15,8 @@
 - [Lesson 14 - α-expanders](http://95.179.136.254:2122/ADRC/14.html)
 - [Lesson 15 - Majority Consensus and Swarm Intelligence](http://95.179.136.254:2122/ADRC/15.html)
 - [Lesson 16 - Swarm Intelligence: 3-MAJ protocol](http://95.179.136.254:2122/ADRC/16.html)
+- [Lesson 17 - Distributed Graph Coloring](http://95.179.136.254:2122/ADRC/17.html)
+- [Lesson 18 - Randomized Distributed Graph Coloring](http://95.179.136.254:2122/ADRC/18.html)
 ## Algorithmic Game Theory
 - [Lesson 19 - Nash Equilibrium](http://95.179.136.254:2122/ADRC/19.html)
+- [Lesson 20 - Network Formation Games: Global Connection Game](http://95.179.136.254:2122/ADRC/20.html)
