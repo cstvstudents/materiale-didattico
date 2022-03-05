@@ -9,3 +9,7 @@
 - [Lesson 10 - Cascading Behavior in Networks - Part 2](http://95.179.136.254:2122/AR/10.html)
 - [Lesson 11 - Cascading Behavior in Networks - Part 3](http://95.179.136.254:2122/AR/11.html)
 - [Lesson 12 - Herding](http://95.179.136.254:2122/AR/12.html)
+- [Lesson 13 - Sistemi di Voto - Part 1](http://95.179.136.254:2122/AR/13.html)
+- [Lesson 14 - Sistemi di Voto - Part 2](http://95.179.136.254:2122/AR/14.html)
+- [Lesson 15 - Sistemi di Voto - Part 3](http://95.179.136.254:2122/AR/15.html)
+- [Lesson 16 - Sistemi di Voto - Part 4](http://95.179.136.254:2122/AR/16.html)
